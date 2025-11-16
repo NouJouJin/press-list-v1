@@ -22,7 +22,10 @@ async function importFromCSV(csvPath) {
   const records = parse(csvContent, {
     columns: true,
     skip_empty_lines: true,
-    trim: true
+    trim: true,
+    relax_quotes: true,
+    relax_column_count: true,
+    escape: '\\'
   });
 
   console.log(`📊 ${records.length}件のレコードを検出しました`);

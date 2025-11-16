@@ -15,7 +15,7 @@
     }
   },
   "metadata": {
-    "total_count": 180,
+    "total_count": 76,
     "last_updated": "2025-11-16",
     "version": "1.0.0"
   },
@@ -31,6 +31,1347 @@
       "tags": [],
       "summary": "",
       "status": "pending_data_entry"
+    },
+    {
+      "id": 2,
+      "number": "000000165",
+      "title": "【次世代動画生成AIの波、農業へ】動画生成AI×農業の全国コンテスト、応募開始",
+      "date": "2025-10-10",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000165.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "AI",
+        "動画生成",
+        "コンテスト"
+      ],
+      "summary": "次世代動画生成AIを活用した農業の全国コンテストを開催。OpenAIのSora2、Runway、Google Veoなどの最新ツールを使用し、農業の未来を表現する作品を募集。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.020Z"
+    },
+    {
+      "id": 3,
+      "number": "000000160",
+      "title": "産直EC時代の農家が抱える「嬉しい悲鳴」問題、AI返信で解決へ",
+      "date": "2025-09-30",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000160.000087046.html",
+      "category": "サービス",
+      "tags": [
+        "農業",
+        "AI",
+        "EC",
+        "顧客対応"
+      ],
+      "summary": "産直EC時代における農家の顧客対応問題をAIで解決。増加する問い合わせに対し、AI技術を活用した自動返信システムで効率化を図る。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.021Z"
+    },
+    {
+      "id": 4,
+      "number": "000000157",
+      "title": "【3日間限定・無料】書籍『農家のための生成AI超入門』キャンペーン実施",
+      "date": "2025-09-17",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000157.000087046.html",
+      "category": "キャンペーン",
+      "tags": [
+        "農業",
+        "AI",
+        "書籍",
+        "無料"
+      ],
+      "summary": "農家向けの生成AI入門書を3日間限定で無料配布するキャンペーンを実施。生成AIの基礎から実践的な活用方法まで解説。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.022Z"
+    },
+    {
+      "id": 5,
+      "number": "000000156",
+      "title": "農家向け生成AI活用支援サービス「農業AI顧問」提供開始",
+      "date": "2025-09-16",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000156.000087046.html",
+      "category": "サービス",
+      "tags": [
+        "農業",
+        "AI",
+        "コンサルティング",
+        "サブスクリプション"
+      ],
+      "summary": "月額5万円で農家向けに生成AIツールの選定、導入、効果的な活用を支援するサービス「農業AI顧問」を開始。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.022Z"
+    },
+    {
+      "id": 6,
+      "number": "000000155",
+      "title": "【農家限定】あなたの農業の悩み、AIが無料で解決します。",
+      "date": "2025-09-16",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000155.000087046.html",
+      "category": "サービス",
+      "tags": [
+        "農業",
+        "AI",
+        "無料",
+        "問題解決"
+      ],
+      "summary": "農家限定で、農業の悩みをAIが無料で解決するサービスを提供。生成AI技術を活用し、農業現場の課題に対応。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.022Z"
+    },
+    {
+      "id": 7,
+      "number": "000000151",
+      "title": "書籍『DAOが持続可能な農業のカギ』改訂版、最新DAO事例で解き明かす農業DAOの未来",
+      "date": "2025-08-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000151.000087046.html",
+      "category": "出版",
+      "tags": [
+        "農業",
+        "DAO",
+        "ブロックチェーン",
+        "書籍"
+      ],
+      "summary": "DAOと持続可能な農業をテーマにした書籍の改訂版を発売。最新のDAO事例を通じて、農業分野での分散型自律組織の可能性を解説。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.022Z"
+    },
+    {
+      "id": 8,
+      "number": "000000149",
+      "title": "【業界初】動画生成AIで未来農業を表現！『AGRI VISION 2125 〜AIが描く100年後の日本農業〜』開催決定！",
+      "date": "2025-05-20",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000149.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "AI",
+        "動画生成",
+        "未来"
+      ],
+      "summary": "業界初となる動画生成AIを活用した農業の未来像表現コンテスト「AGRI VISION 2125」を開催。100年後の日本農業をAIで描く。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.022Z"
+    },
+    {
+      "id": 9,
+      "number": "000000148",
+      "title": "みんなでデザイン！ 「Metagriデザインチャレンジ」テーマ事業者 公募スタート！",
+      "date": "2025-05-19",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000148.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "デザイン",
+        "コミュニティ",
+        "公募"
+      ],
+      "summary": "農業メタバースゲーム「未来の農業シミュレーター」のデザインチャレンジで、テーマとなる農業事業者を公募開始。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.023Z"
+    },
+    {
+      "id": 10,
+      "number": "000000138",
+      "title": "未来の農業を共に創る！Metagri研究所、「サポータープラン」開始",
+      "date": "2025-05-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000138.000087046.html",
+      "category": "サービス",
+      "tags": [
+        "農業",
+        "Web3",
+        "コミュニティ",
+        "サポート"
+      ],
+      "summary": "Metagri研究所が農業×Web3の取り組みを支援する「サポータープラン」を開始。持続可能な農業の実現を目指すコミュニティ活動。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.023Z"
+    },
+    {
+      "id": 11,
+      "number": "000000135",
+      "title": "【審査制・限定3農家】農園の物語を、価値ある情報へ。プレスリリース無料作成キャンペーン実施",
+      "date": "2025-05-05",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000135.000087046.html",
+      "category": "キャンペーン",
+      "tags": [
+        "農業",
+        "プレスリリース",
+        "無料",
+        "ブランディング"
+      ],
+      "summary": "限定3農家を対象に、農園の物語を価値ある情報に変えるプレスリリースを無料で作成するキャンペーンを実施。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.023Z"
+    },
+    {
+      "id": 12,
+      "number": "000000133",
+      "title": "【3日間限定】農業界にAI革命を！『農家のための生成AI超入門』が無料",
+      "date": "2025-05-03",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000133.000087046.html",
+      "category": "キャンペーン",
+      "tags": [
+        "農業",
+        "AI",
+        "書籍",
+        "無料"
+      ],
+      "summary": "農業界にAI革命をもたらす『農家のための生成AI超入門』を3日間限定で無料配布。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.023Z"
+    },
+    {
+      "id": 13,
+      "number": "000000132",
+      "title": "【好評につき第2弾】農業AI活用コンサルティングを1ヶ月無料提供",
+      "date": "2025-05-03",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000132.000087046.html",
+      "category": "キャンペーン",
+      "tags": [
+        "農業",
+        "AI",
+        "コンサルティング",
+        "無料"
+      ],
+      "summary": "好評につき第2弾として、農業AI活用コンサルティングを1ヶ月間無料で提供。農家のAI活用を支援。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.023Z"
+    },
+    {
+      "id": 14,
+      "number": "000000131",
+      "title": "メタバースで「黄金の茶葉フェスティバル」を開催",
+      "date": "2025-05-01",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000131.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "メタバース",
+        "お茶",
+        "ゲーム"
+      ],
+      "summary": "農業メタバースゲーム内で「黄金の茶葉フェスティバル」を開催。茶園とのコラボレーション企画。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.023Z"
+    },
+    {
+      "id": 15,
+      "number": "000000130",
+      "title": "前回154作品応募の熱狂再び！ 「第2回 世界牛乳の日 NFTデザインコンテスト」を開催",
+      "date": "2025-04-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000130.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "NFT",
+        "デザイン",
+        "コンテスト"
+      ],
+      "summary": "第2回となる「世界牛乳の日 NFTデザインコンテスト」を開催。前回154作品の応募があった人気企画の続編。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.023Z"
+    },
+    {
+      "id": 16,
+      "number": "000000129",
+      "title": "【農家の未来をAIと共に描く】2030年までに全農家が生成AIを活用する「AI農業共生社会」実現へ",
+      "date": "2025-04-03",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000129.000087046.html",
+      "category": "ビジョン",
+      "tags": [
+        "農業",
+        "AI",
+        "未来",
+        "社会"
+      ],
+      "summary": "2030年までに全農家が生成AIを活用する「AI農業共生社会」の実現を目指すビジョンを発表。農業とAIの共生を提唱。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.023Z"
+    },
+    {
+      "id": 17,
+      "number": "000000125",
+      "title": "【満員御礼】NFTセミナーで示された新たな収益モデルの可能性",
+      "date": "2025-03-25",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000125.000087046.html",
+      "category": "セミナー",
+      "tags": [
+        "農業",
+        "NFT",
+        "収益モデル",
+        "満員御礼"
+      ],
+      "summary": "NFTを活用した新たな収益モデルの可能性を示すセミナーを開催し、満員御礼となった。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.023Z"
+    },
+    {
+      "id": 18,
+      "number": "000000124",
+      "title": "【農林水産省コラボ企画】日本の食をデザインの力で世界へ届ける！「農業デザインチャレンジ 2025」開催決定",
+      "date": "2025-03-20",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000124.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "デザイン",
+        "農林水産省",
+        "コラボ"
+      ],
+      "summary": "農林水産省とのコラボ企画として「農業デザインチャレンジ 2025」を開催。デザインの力で日本の食を世界に届ける。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.023Z"
+    },
+    {
+      "id": 19,
+      "number": "000000123",
+      "title": "期限付きトークンでweb3コミュニティを活性化",
+      "date": "2025-03-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000123.000087046.html",
+      "category": "サービス",
+      "tags": [
+        "農業",
+        "Web3",
+        "トークン",
+        "コミュニティ"
+      ],
+      "summary": "期限付きトークンシステムを導入し、web3コミュニティの活性化を図る取り組みを開始。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.023Z"
+    },
+    {
+      "id": 20,
+      "number": "000000121",
+      "title": "【無料セミナー】「農業スキマバイト最前線 〜タイミー事例から学ぶ〜」を4月3日（木）に開催",
+      "date": "2025-03-10",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000121.000087046.html",
+      "category": "セミナー",
+      "tags": [
+        "農業",
+        "アルバイト",
+        "タイミー",
+        "無料"
+      ],
+      "summary": "農業のスキマバイト活用について、タイミーの事例から学ぶ無料セミナーを4月3日に開催。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.023Z"
+    },
+    {
+      "id": 21,
+      "number": "000000119",
+      "title": "【3月11日公開】人口減少の切り札はNFT！ 地方自治体におけるシンweb3活用戦略を提言",
+      "date": "2025-03-07",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000119.000087046.html",
+      "category": "レポート",
+      "tags": [
+        "地方創生",
+        "NFT",
+        "Web3",
+        "自治体"
+      ],
+      "summary": "人口減少対策の切り札としてNFTを活用。地方自治体における「シンweb3活用戦略」を提言するレポートを公開。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 22,
+      "number": "000000118",
+      "title": "【農業×web3】2年間で1",
+      "date": "000件超のトークン取引を実証",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000118.000087046.html",
+      "category": "2025-03-05",
+      "tags": [
+        "実績報告"
+      ],
+      "summary": "農業;Web3;トークン;実証",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 23,
+      "number": "000000117",
+      "title": "【3農家限定】AIを活用したスマート農業コンサルを1ヶ月無料で提供開始",
+      "date": "2025-02-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000117.000087046.html",
+      "category": "サービス",
+      "tags": [
+        "農業",
+        "AI",
+        "コンサルティング",
+        "無料"
+      ],
+      "summary": "限定3農家を対象に、AIを活用したスマート農業コンサルティングを1ヶ月間無料で提供するサービスを開始。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 24,
+      "number": "000000116",
+      "title": "【業界初】農業メタバース×AIデザインコンテスト開催のお知らせ",
+      "date": "2025-02-10",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000116.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "メタバース",
+        "AI",
+        "デザイン"
+      ],
+      "summary": "業界初となる農業メタバース×AIデザインコンテストを開催。AIとメタバースの融合による新しい農業表現を募集。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 25,
+      "number": "000000113",
+      "title": "【3月7日開催・沼津市】「NFTで広がる可能性と新たな収益確保」セミナー",
+      "date": "2025-02-05",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000113.000087046.html",
+      "category": "セミナー",
+      "tags": [
+        "農業",
+        "NFT",
+        "収益",
+        "沼津市"
+      ],
+      "summary": "沼津市でNFTを活用した新たな収益確保の可能性について学ぶセミナーを3月7日に開催。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 26,
+      "number": "000000111",
+      "title": "「農業メタバース×ショート動画コンテスト」開催！",
+      "date": "2025-01-20",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000111.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "メタバース",
+        "動画",
+        "コンテスト"
+      ],
+      "summary": "農業メタバースとショート動画を組み合わせたコンテストを開催。新しい農業表現の可能性を探る。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 27,
+      "number": "000000110",
+      "title": "【3日間限定】『AIと共創する新時代の農業戦略』改訂版、無料キャンペーン実施",
+      "date": "2025-02-18",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000110.000087046.html",
+      "category": "キャンペーン",
+      "tags": [
+        "農業",
+        "AI",
+        "書籍",
+        "無料"
+      ],
+      "summary": "最新のAIモデル「OpenAI o1」などを網羅した『AIと共創する新時代の農業戦略』改訂版を3日間限定で無料配布。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 28,
+      "number": "000000109",
+      "title": "【業界初】NFTで「農業バイト」の経験を証明！",
+      "date": "2024-12-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000109.000087046.html",
+      "category": "サービス",
+      "tags": [
+        "農業",
+        "NFT",
+        "アルバイト",
+        "証明"
+      ],
+      "summary": "業界初となるNFTを活用した農業アルバイト経験の証明システムを導入。川上農園とのコラボレーション。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 29,
+      "number": "000000107",
+      "title": "農業メタバースで「収穫コンテスト」を開催",
+      "date": "2025-02-28",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000107.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "メタバース",
+        "コンテスト",
+        "ゲーム"
+      ],
+      "summary": "Robloxプラットフォーム上の農業ゲーム「未来の農業シミュレーター」で収穫コンテストを開催。上位者には実際の農産物を贈呈。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 30,
+      "number": "000000105",
+      "title": "【AIが奏でる未来の農業】「音楽生成AIコンテスト2024」結果発表",
+      "date": "2024-11-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "AI",
+        "音楽",
+        "コンテスト"
+      ],
+      "summary": "農業の未来をテーマにした音楽生成AIコンテスト2024の結果を発表。業界初の試み。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 31,
+      "number": "000000104",
+      "title": "メタバースで「お米収穫祭」を開催し、上位3名に新米を贈呈",
+      "date": "2024-10-31",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000104.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "メタバース",
+        "お米",
+        "イベント"
+      ],
+      "summary": "農業メタバース内でお米収穫祭を開催。上位3名には実際の新米を贈呈する企画。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 32,
+      "number": "000000102",
+      "title": "【無料セミナー】「農業×生成AI」第3弾セミナーを11月7日（木）に開催",
+      "date": "2024-10-25",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000102.000087046.html",
+      "category": "セミナー",
+      "tags": [
+        "農業",
+        "AI",
+        "セミナー",
+        "無料"
+      ],
+      "summary": "農業における生成AIの実践活用をテーマにした第3弾セミナーを11月7日に無料開催。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 33,
+      "number": "000000101",
+      "title": "【累計申し込み数1",
+      "date": "000件突破記念】生成AIセミナーアーカイブ動画プレゼントキャンペーンを実施",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000101.000087046.html",
+      "category": "2024-10-20",
+      "tags": [
+        "キャンペーン"
+      ],
+      "summary": "農業;AI;セミナー;プレゼント",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 34,
+      "number": "000000100",
+      "title": "【3日間限定】『AIと共創する新時代の農業戦略』改訂版、無料キャンペーン実施",
+      "date": "2024-10-22",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000100.000087046.html",
+      "category": "キャンペーン",
+      "tags": [
+        "農業",
+        "AI",
+        "書籍",
+        "無料"
+      ],
+      "summary": "Metagriシリーズが累計読者数3",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 35,
+      "number": "000000099",
+      "title": "最新AIサービスを網羅した『AIと共創する新時代の農業戦略』改訂版販売開始",
+      "date": "2024-10-19",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000099.000087046.html",
+      "category": "出版",
+      "tags": [
+        "農業",
+        "AI",
+        "書籍",
+        "ChatGPT"
+      ],
+      "summary": "最新のChatGPTモデル「OpenAI o1」や新生成AIサービスを網羅した農業AI戦略本の改訂版を販売開始。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 36,
+      "number": "000000098",
+      "title": "【業界初】音楽生成AIコンテストで農業の未来を奏でよう",
+      "date": "2024-10-05",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000098.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "AI",
+        "音楽",
+        "コンテスト"
+      ],
+      "summary": "業界初となる音楽生成AIを活用した農業の未来をテーマにしたコンテストを開催。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 37,
+      "number": "000000096",
+      "title": "メタバースで「お米収穫祭」を開催",
+      "date": "2024-10-10",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000096.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "メタバース",
+        "お米",
+        "祭り"
+      ],
+      "summary": "農業メタバース内でお米収穫祭を開催。バーチャル空間で農業体験を提供。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 38,
+      "number": "000000093",
+      "title": "【無料セミナー】「農業における生成AIの実践活用」を10月20日（日）に開催",
+      "date": "2024-10-08",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000093.000087046.html",
+      "category": "セミナー",
+      "tags": [
+        "農業",
+        "AI",
+        "実践",
+        "無料"
+      ],
+      "summary": "農業現場における生成AIの具体的な活用方法を学ぶ無料セミナーを10月20日に開催。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 39,
+      "number": "000000091",
+      "title": "Metagri研究所、コミュニティ参加者1",
+      "date": "000人突破記念！",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000091.000087046.html",
+      "category": "2024-10-01",
+      "tags": [
+        "マイルストーン"
+      ],
+      "summary": "農業;Web3;コミュニティ;1000人",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 40,
+      "number": "000000083",
+      "title": "Web3が切り拓く農業革命、Metagri研究所が日本Web3.0推進協議会主催セミナーに登壇",
+      "date": "2024-06-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000083.000087046.html",
+      "category": "セミナー",
+      "tags": [
+        "農業",
+        "Web3",
+        "革命",
+        "登壇"
+      ],
+      "summary": "日本Web3.0推進協議会主催のセミナーにMetagri研究所が登壇し、Web3による農業革命について講演。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 41,
+      "number": "000000074",
+      "title": "【3日間限定】農業とメタバースの融合が切り拓く新時代！",
+      "date": "2024-05-10",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000074.000087046.html",
+      "category": "キャンペーン",
+      "tags": [
+        "農業",
+        "メタバース",
+        "書籍",
+        "無料"
+      ],
+      "summary": "農業とメタバースの融合をテーマにした書籍を3日間限定で無料配布。新時代の農業を提案。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 42,
+      "number": "000000071",
+      "title": "「世界牛乳の日」に向けた乳牛AIアートコンテストを開催",
+      "date": "2024-05-01",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000071.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "AI",
+        "アート",
+        "牛乳の日"
+      ],
+      "summary": "世界牛乳の日に向けて、AIアートを活用した乳牛デザインコンテストを開催。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 43,
+      "number": "000000068",
+      "title": "新時代の農業戦略『農業メタバース革命』の予約受付がスタート！",
+      "date": "2023-12-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000068.000087046.html",
+      "category": "出版",
+      "tags": [
+        "農業",
+        "メタバース",
+        "書籍",
+        "予約"
+      ],
+      "summary": "デジタル農業、メタバース、AIを活用した新時代の農業モデルを解説する書籍『農業メタバース革命』の予約受付開始。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 44,
+      "number": "000000062",
+      "title": "web3コミュニティの活動を革新！ 貢献の可視化につながるソーシャルトークン自動配布システム導入！",
+      "date": "2023-11-20",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000062.000087046.html",
+      "category": "サービス",
+      "tags": [
+        "農業",
+        "Web3",
+        "トークン",
+        "自動化"
+      ],
+      "summary": "web3コミュニティでの貢献を可視化するソーシャルトークン自動配布システムを導入。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 45,
+      "number": "000000059",
+      "title": "web3コミュニティ活動をNFTで証明、新時代のキャリア形成をサポート",
+      "date": "2023-11-10",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000059.000087046.html",
+      "category": "サービス",
+      "tags": [
+        "農業",
+        "Web3",
+        "NFT",
+        "キャリア"
+      ],
+      "summary": "web3コミュニティでの活動実績をNFTで証明し、新時代のキャリア形成を支援するサービスを開始。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 46,
+      "number": "000000041",
+      "title": "Metagri研究所、ブロックチェーン技術を活用した農産物とNFTの新交換システムを開始",
+      "date": "2023-06-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000041.000087046.html",
+      "category": "サービス",
+      "tags": [
+        "農業",
+        "ブロックチェーン",
+        "NFT",
+        "交換システム"
+      ],
+      "summary": "Polygonネットワーク上でソーシャルトークンと農産物NFTを交換できる新システムを開始。愛媛や新潟の農産物が対象。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 47,
+      "number": "000000039",
+      "title": "ChatGPT活用で農業が新時代へ！ 生成AI技術の活用事例を解説する特別セミナー開催",
+      "date": "2023-06-22",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000039.000087046.html",
+      "category": "セミナー",
+      "tags": [
+        "農業",
+        "ChatGPT",
+        "AI",
+        "セミナー"
+      ],
+      "summary": "ChatGPTを活用した農業の新時代をテーマに、生成AI技術の活用事例を解説する特別セミナーを開催。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 48,
+      "number": "000000037",
+      "title": "AIと共創する新時代の農業戦略セミナー：『Peatixトークンゲーティング』を採用しNFTホルダーに特別な体験を提供",
+      "date": "2023-05-30",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000037.000087046.html",
+      "category": "セミナー",
+      "tags": [
+        "農業",
+        "AI",
+        "NFT",
+        "トークンゲーティング"
+      ],
+      "summary": "NFTホルダー向けに特別な体験を提供するセミナーを開催。Peatixトークンゲーティング機能を採用。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 49,
+      "number": "000000035",
+      "title": "生成AIが農業を変える！ 「農業×生成AI」ビジネス指南書『AIと共創する新時代の農業戦略』発売！",
+      "date": "2023-05-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000035.000087046.html",
+      "category": "出版",
+      "tags": [
+        "農業",
+        "AI",
+        "書籍",
+        "ビジネス"
+      ],
+      "summary": "生成AIを活用した農業ビジネスの指南書『AIと共創する新時代の農業戦略』を発売。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 50,
+      "number": "000000034",
+      "title": "AIと共創する新時代の農業戦略：Metagriシリーズ第5弾「AI編」の予約販売開始",
+      "date": "2023-05-10",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000034.000087046.html",
+      "category": "出版",
+      "tags": [
+        "農業",
+        "AI",
+        "書籍",
+        "予約"
+      ],
+      "summary": "Metagriシリーズ第5弾となる「AI編」の予約販売を開始。農業とAIの共創をテーマに解説。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 51,
+      "number": "000000024",
+      "title": "1月15日は「いちごの日」！ なかはた農園とのコラボ企画で「いちごNFT」を115点限定で発売！",
+      "date": "2023-01-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000024.000087046.html",
+      "category": "商品",
+      "tags": [
+        "農業",
+        "NFT",
+        "いちご",
+        "限定"
+      ],
+      "summary": "1月15日のいちごの日を記念し、なかはた農園とコラボして115点限定のいちごNFTを発売。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 52,
+      "number": "000000022",
+      "title": "【1/22 セミナー開催】地方創生×NFTの可能性～NFTは目的ではなく手段～",
+      "date": "2023-01-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000022.000087046.html",
+      "category": "セミナー",
+      "tags": [
+        "地方創生",
+        "NFT",
+        "セミナー",
+        "可能性"
+      ],
+      "summary": "1月22日に地方創生とNFTの可能性をテーマにしたセミナーを開催。NFTを手段として活用する方法を解説。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.024Z"
+    },
+    {
+      "id": 53,
+      "number": "000000016",
+      "title": "【出版1周年記念企画】「農業×NFT」のアイディア本『農業の常識を超越する「Metagri」』をKindleストアで無料販売開始！",
+      "date": "2023-01-10",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000016.000087046.html",
+      "category": "キャンペーン",
+      "tags": [
+        "農業",
+        "NFT",
+        "書籍",
+        "無料"
+      ],
+      "summary": "出版1周年を記念して『農業の常識を超越する「Metagri」』をKindleストアで無料販売。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 54,
+      "number": "000000013",
+      "title": "【旬のスイカNFT解禁】 食べても不滅のNFTが付いてくる！？ スイカとNFTセットのパブリックセール開始！",
+      "date": "2022-07-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000087046.html",
+      "category": "商品",
+      "tags": [
+        "農業",
+        "NFT",
+        "スイカ",
+        "限定"
+      ],
+      "summary": "旬のスイカと不滅のNFTをセットにしたパブリックセールを開始。ブロックチェーン技術で持続可能な農業を支援。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 55,
+      "number": "000000012",
+      "title": "【次世代電子書籍】読者と共に創り上げる100冊限定の未完成本をNFTで予約販売開始！",
+      "date": "2022-05-20",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000012.000087046.html",
+      "category": "出版",
+      "tags": [
+        "NFT",
+        "電子書籍",
+        "限定",
+        "共創"
+      ],
+      "summary": "読者と共に創る未完成本を100冊限定でNFT形式で予約販売。OpenSeaマーケットプレイスで展開。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 56,
+      "number": "000000010",
+      "title": "世界中で「農コード革命」を巻き起こし、未来永劫つづく〝持続可能な農業〟を実現する！",
+      "date": "2022-04-01",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000010.000087046.html",
+      "category": "出版",
+      "tags": [
+        "農業",
+        "ノーコード",
+        "革命",
+        "書籍"
+      ],
+      "summary": "スマート農業にプログラミング不要の時代を実現する「農コード革命」をテーマにした書籍を発売。価格500円。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 57,
+      "number": "000000009",
+      "title": "【日本初】「農業×Web3」で農業をアップデート！ ブロックチェーン・メタバース・NFTを農業に掛け合わせる実証実験コミュニティ「Metagri研究所」始動",
+      "date": "2022-03-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000009.000087046.html",
+      "category": "コミュニティ",
+      "tags": [
+        "農業",
+        "Web3",
+        "ブロックチェーン",
+        "メタバース"
+      ],
+      "summary": "日本初となる「農業×Web3」の実証実験コミュニティ「Metagri研究所」を始動。2022年3月に5名でスタート。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 58,
+      "number": "000000006",
+      "title": "【史上初】「農業×NFT」のアイデア本『農業の常識を超越する「Metagri」』をKindleストアにて配信開始！",
+      "date": "2022-01-10",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000006.000087046.html",
+      "category": "出版",
+      "tags": [
+        "農業",
+        "NFT",
+        "書籍",
+        "Kindle"
+      ],
+      "summary": "史上初となる「農業×NFT」をテーマにしたアイデア本『Metagri』をKindleストアで配信開始。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 59,
+      "number": "000000005",
+      "title": "【年間１組限定】完全無料で「農業」×「ＩＴ」×「エンタメ」のキーワードで農業ブランディングサービスを提供します。",
+      "date": "2021-12-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000005.000087046.html",
+      "category": "サービス",
+      "tags": [
+        "農業",
+        "IT",
+        "エンタメ",
+        "ブランディング"
+      ],
+      "summary": "年間1組限定で農業×IT×エンタメをキーワードにした農業ブランディングサービスを完全無料で提供。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 60,
+      "number": "443774",
+      "title": "【業界初】「Vibe Coding」推奨の 農業AIハッカソン2025本格始動",
+      "date": "2025-07-25",
+      "source": "atpress",
+      "url": "https://www.atpress.ne.jp/news/443774",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "AI",
+        "ハッカソン",
+        "Vibe Coding"
+      ],
+      "summary": "業界初となるVibe Coding（AI対話型開発）を推奨する農業AIハッカソン2025を本格始動。生成AIで農業課題を解決。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 61,
+      "number": "443682",
+      "title": "動画生成AIで描く「100年後の農業」の未来像33作品が集結 『AGRI VISION 2125』にてコミュニティ投票を開始！",
+      "date": "2025-07-20",
+      "source": "atpress",
+      "url": "https://www.atpress.ne.jp/news/443682",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "AI",
+        "動画生成",
+        "投票"
+      ],
+      "summary": "動画生成AIで100年後の農業を描いた33作品が集結。AGRI VISION 2125でコミュニティ投票を開始。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 62,
+      "number": "336534",
+      "title": "農業×NFT『シンNFT戦略 最強のアイディア図鑑』発売記念の「秋の書店へ行こう企画」を11月25日より開催",
+      "date": "2022-11-25",
+      "source": "atpress",
+      "url": "https://www.atpress.ne.jp/news/336534",
+      "category": "キャンペーン",
+      "tags": [
+        "農業",
+        "NFT",
+        "書籍",
+        "書店"
+      ],
+      "summary": "シンNFT戦略書籍の発売を記念し、「秋の書店へ行こう企画」を11月25日より開催。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 63,
+      "number": "325638",
+      "title": "＜旬のシャインマスカット＞食べても残るNFTが付いてくる！34点限定のシャイマスカットNFTを9月10日発売",
+      "date": "2022-09-10",
+      "source": "atpress",
+      "url": "https://www.atpress.ne.jp/news/325638",
+      "category": "商品",
+      "tags": [
+        "農業",
+        "NFT",
+        "シャインマスカット",
+        "限定"
+      ],
+      "summary": "34点限定のシャインマスカットNFT「MetagriLabo Muscat Collection」を9月10日に発売。長野県のフルプロとコラボ。シャインマスカット誕生34周年記念。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 64,
+      "number": "000000168",
+      "title": "AI活用で「稼げる米農業」へ。米農家向け無料AIコンサルを提供",
+      "date": "2025-10-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000168.000087046.html",
+      "category": "サービス",
+      "tags": [
+        "農業",
+        "AI",
+        "米",
+        "コンサルティング"
+      ],
+      "summary": "米農家向けにAIを活用した無料コンサルティングサービスを提供。稼げる米農業の実現を支援。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 65,
+      "number": "000000154",
+      "title": "農業のリアルな課題をAIで解決！「農業AIハッカソン2025」で生まれたプロトタイプが早くも社会実装へ",
+      "date": "2025-09-05",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000154.000087046.html",
+      "category": "実績報告",
+      "tags": [
+        "農業",
+        "AI",
+        "ハッカソン",
+        "社会実装"
+      ],
+      "summary": "農業AIハッカソン2025で開発されたプロトタイプが早くも社会実装へ。AIによる農業課題解決の具体的な成果を報告。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 66,
+      "number": "000000136",
+      "title": "【こどもの日企画】キミのアイデアがゲームになる！未来の農業を一緒に作ろう！",
+      "date": "2025-05-05",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000136.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "ゲーム",
+        "子ども",
+        "メタバース"
+      ],
+      "summary": "こどもの日企画として、子どものアイデアを農業メタバースゲームに反映させる企画を実施。未来の農業を一緒に作る。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 67,
+      "number": "000000114",
+      "title": "Metagri研究所、2025年度インターン生募集開始",
+      "date": "2025-01-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000114.000087046.html",
+      "category": "採用",
+      "tags": [
+        "農業",
+        "Web3",
+        "インターン",
+        "募集"
+      ],
+      "summary": "Metagri研究所が2025年度のインターン生募集を開始。農業×Web3の実践的な経験を積める機会を提供。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 68,
+      "number": "000000052",
+      "title": "農家と消費者の壁を取り払う、農業web3コミュニティ主導の経済圏構想",
+      "date": "2023-11-01",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000052.000087046.html",
+      "category": "ビジョン",
+      "tags": [
+        "農業",
+        "Web3",
+        "コミュニティ",
+        "経済圏"
+      ],
+      "summary": "農家と消費者の壁を取り払い、農業web3コミュニティが主導する新しい経済圏構想を発表。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 69,
+      "number": "000000020",
+      "title": "【お正月特別企画】「農業×DeFi」のアイディア本『これからの資金調達は「農業×DeFi＝FarmFi」をKindleストアにて三が日限定で無料販売実施！",
+      "date": "2023-01-01",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000020.000087046.html",
+      "category": "キャンペーン",
+      "tags": [
+        "農業",
+        "DeFi",
+        "書籍",
+        "無料"
+      ],
+      "summary": "お正月特別企画として「農業×DeFi＝FarmFi」をテーマにした書籍を三が日限定で無料販売。新しい資金調達モデルを提案。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 70,
+      "number": "000000043",
+      "title": "価格を決めるのはあなた！ NFT体験型農園プロジェクト、『値段を決めてイーサ』始動",
+      "date": "2023-08-10",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000087046.html",
+      "category": "プロジェクト",
+      "tags": [
+        "農業",
+        "NFT",
+        "体験型",
+        "価格決定"
+      ],
+      "summary": "消費者が価格を決められるNFT体験型農園プロジェクト「値段を決めてイーサ」を始動。新しい農業ビジネスモデルを提案。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 71,
+      "number": "000000027",
+      "title": "【3日間限定】「農業×ノーコード」の実践書『農コード革命～スマート農業にプログラミングは不要の時代～』をKindleストアで無料販売開始！",
+      "date": "2023-04-05",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000027.000087046.html",
+      "category": "キャンペーン",
+      "tags": [
+        "農業",
+        "ノーコード",
+        "書籍",
+        "無料"
+      ],
+      "summary": "農業×ノーコードの実践書を3日間限定で無料販売。プログラミング不要のスマート農業を提案。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 72,
+      "number": "000000164",
+      "title": "【DAO実用化の道筋を示す】合同会社・株式会社とDAOの組み合わせ事例を徹底解説したweb3リサーチペーパーを無料公開",
+      "date": "2025-10-08",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000164.000087046.html",
+      "category": "レポート",
+      "tags": [
+        "DAO",
+        "Web3",
+        "リサーチ",
+        "無料"
+      ],
+      "summary": "合同会社や株式会社とDAOを組み合わせた事例を徹底解説したリサーチペーパーを無料公開。DAO実用化の具体的な道筋を示す。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 73,
+      "number": "000000163",
+      "title": "Z世代が地域を変える。「地域課題×AIハッカソン」、全国自治体との共創モデル展開へ",
+      "date": "2025-10-07",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000163.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "地域創生",
+        "AI",
+        "ハッカソン",
+        "Z世代"
+      ],
+      "summary": "Z世代が中心となって地域課題をAIで解決するハッカソンを全国の自治体と共創展開。新しい地域創生モデルを提案。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 74,
+      "number": "000000152",
+      "title": "未来の農業ゲームの種、決定！こどもの日企画「農業ゲームアイデア畑」最優秀賞発表！",
+      "date": "2025-05-10",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000152.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "ゲーム",
+        "子ども",
+        "受賞"
+      ],
+      "summary": "こどもの日企画「農業ゲームアイデア畑」の最優秀賞を発表。子どものアイデアが未来の農業ゲームに実装される。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 75,
+      "number": "000000144",
+      "title": "農業メタバースコンテスト第3弾！AIで描く「未来の高山植物」デザインコンテスト開催",
+      "date": "2025-05-15",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000144.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "メタバース",
+        "AI",
+        "デザイン"
+      ],
+      "summary": "農業メタバースコンテスト第3弾として、AIで未来の高山植物をデザインするコンテストを開催。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 76,
+      "number": "000000139",
+      "title": "自慢の農産物を世界へ発信！ 農業ゲーム「未来の農業シミュレーター」が協力農家を募集開始",
+      "date": "2025-05-12",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000139.000087046.html",
+      "category": "募集",
+      "tags": [
+        "農業",
+        "ゲーム",
+        "メタバース",
+        "募集"
+      ],
+      "summary": "農業ゲーム「未来の農業シミュレーター」で、自慢の農産物を世界に発信できる協力農家の募集を開始。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:14:48.025Z"
     }
   ]
 }
