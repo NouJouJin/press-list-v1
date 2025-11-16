@@ -15,7 +15,7 @@
     }
   },
   "metadata": {
-    "total_count": 76,
+    "total_count": 83,
     "last_updated": "2025-11-16",
     "version": "1.0.0"
   },
@@ -1372,6 +1372,132 @@
       "summary": "農業ゲーム「未来の農業シミュレーター」で、自慢の農産物を世界に発信できる協力農家の募集を開始。",
       "status": "complete",
       "added_at": "2025-11-16T10:14:48.025Z"
+    },
+    {
+      "id": 77,
+      "number": "000000004",
+      "title": "トマト嫌いなお子様にこそ読んでほしい食育絵本「トマトになっちゃった」 トマタイム（10月10日10時10分）から先行予約開始",
+      "date": "2021-10-10",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000087046.html",
+      "category": "出版",
+      "tags": [
+        "農業",
+        "食育",
+        "絵本",
+        "トマト"
+      ],
+      "summary": "トマト嫌いな子ども向けの食育絵本「トマトになっちゃった」の先行予約を開始。クラウドファンディングで1",
+      "status": "complete",
+      "added_at": "2025-11-16T10:28:18.966Z"
+    },
+    {
+      "id": 78,
+      "number": "000000007",
+      "title": "【世界初】農業DAOプロジェクト『MetagriDAO』実現に向けた賛同者求む！",
+      "date": "2022-02-01",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000087046.html",
+      "category": "ビジョン",
+      "tags": [
+        "農業",
+        "DAO",
+        "Web3",
+        "ブロックチェーン"
+      ],
+      "summary": "世界初となる農業DAOプロジェクト「MetagriDAO」の実現を目指す。農家と消費者の壁を取り払い、フラットな関係性を持つ横の組織を構築し、独自トークンで支援活動を促進。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:28:18.967Z"
+    },
+    {
+      "id": 79,
+      "number": "000000073",
+      "title": "6月1日は「世界牛乳の日」！ Metagri乳牛AIアートコンテストの優秀作品がNFTに",
+      "date": "2024-05-31",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000073.000087046.html",
+      "category": "イベント",
+      "tags": [
+        "農業",
+        "AI",
+        "NFT",
+        "牛乳の日"
+      ],
+      "summary": "世界牛乳の日に向けて開催された乳牛AIアートコンテストの優秀作品「Metagri Milk Cow」を100点限定のNFTとして発行。NFTホルダーには川上農園特製カヌレのプレゼント抽選も実施。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:28:18.967Z"
+    },
+    {
+      "id": 80,
+      "number": "",
+      "title": "農業NFTの先駆けとなるプロジェクト『トマト×NFT』プロジェクト始動！",
+      "date": "2022-07-22",
+      "source": "other",
+      "url": "https://www.value-press.com/pressrelease/300740",
+      "category": "プロジェクト",
+      "tags": [
+        "農業",
+        "NFT",
+        "トマト",
+        "梶原耕藝"
+      ],
+      "summary": "200年続く老舗トマト農家「梶原耕藝」とコラボし、トマトの生育過程を表現したジェネラティブNFT「MetagriLabo Tomato Collection（MLTC）」54点を8月中旬発売予定。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:28:18.967Z"
+    },
+    {
+      "id": 81,
+      "number": "",
+      "title": "【旬のスイカNFT解禁】 日本初の農業DAOにより、スイカ×NFT「MetagriLabo Suica Collection」を発売開始！",
+      "date": "2022-06-01",
+      "source": "other",
+      "url": "https://www.value-press.com/pressrelease/297482",
+      "category": "商品",
+      "tags": [
+        "農業",
+        "NFT",
+        "スイカ",
+        "DAO"
+      ],
+      "summary": "日本初の農業DAOであるMetagri研究所が、熊本県のしまだスイカ農園とコラボして20点限定のスイカNFT「MetagriLabo Suica Collection（MLSC）」を発売。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:28:18.967Z"
+    },
+    {
+      "id": 82,
+      "number": "",
+      "title": "【参加記念NFTプレゼント】農業Ｗeek 2022セミナーに農情人が登壇します！ セミナー参加者へ特別に記念NFTを配布いたします。",
+      "date": "2022-10-13",
+      "source": "other",
+      "url": "https://www.dreamnews.jp/press/0000266948",
+      "category": "セミナー",
+      "tags": [
+        "農業",
+        "Web3",
+        "NFT",
+        "イベント"
+      ],
+      "summary": "2022年10月13日開催の農業Week 2022で「農業の常識を超越する『Metagri』～web3で農業をアップデート～」をテーマに登壇。参加者に記念NFTを配布。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:28:18.968Z"
+    },
+    {
+      "id": 83,
+      "number": "",
+      "title": "【ベストセラーのMetagriシリーズ最新作発売】これからの資金調達は「農業×DeFi＝FarmFi」",
+      "date": "2022-07-01",
+      "source": "other",
+      "url": "https://www.value-press.com/pressrelease/299739",
+      "category": "出版",
+      "tags": [
+        "農業",
+        "DeFi",
+        "FarmFi",
+        "書籍"
+      ],
+      "summary": "Metagriシリーズ第3弾として「農業×DeFi＝FarmFi」をテーマにした書籍を発売。ブロックチェーンベースのDeFiを農業業界に持ち込む「FarmFi」構想を提案。",
+      "status": "complete",
+      "added_at": "2025-11-16T10:28:18.968Z"
     }
   ]
 }
