@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "農情人",
+    "name_en": "Nojohjin",
+    "description": "農情人株式会社のプレスリリース一覧"
+  },
+  "sources": {
+    "prtimes": {
+      "url": "https://prtimes.jp/main/html/searchrlp/company_id/87046",
+      "company_id": "87046"
+    },
+    "atpress": {
+      "url": "https://www.atpress.ne.jp/news/company/94892",
+      "company_id": "94892"
+    }
+  },
+  "metadata": {
+    "total_count": 180,
+    "last_updated": "2025-11-16",
+    "version": "1.0.0"
+  },
+  "releases": [
+    {
+      "id": 1,
+      "number": "000000076",
+      "title": "",
+      "date": "",
+      "source": "prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000076.000087046.html",
+      "category": "",
+      "tags": [],
+      "summary": "",
+      "status": "pending_data_entry"
+    }
+  ]
+}

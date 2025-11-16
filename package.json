@@ -1,0 +1,24 @@
+{
+  "name": "press-releases-manager",
+  "version": "1.0.0",
+  "description": "農情人プレスリリース管理システム - Press Release Management System for Nojohjin",
+  "type": "module",
+  "scripts": {
+    "add": "node scripts/add-release.js",
+    "import": "node scripts/import-from-csv.js",
+    "export": "node scripts/export.js",
+    "validate": "node scripts/validate.js",
+    "stats": "node scripts/stats.js"
+  },
+  "keywords": [
+    "press-release",
+    "nojohjin",
+    "data-management"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0"
+  }
+}
